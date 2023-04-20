@@ -2,18 +2,18 @@
 
 ## Usage
 
-Use python 3.10 or similar and install dependencies
+To ensure compatibility, please utilize Python version 3.10 or a similar version, and proceed to install any necessary dependencies.
 ```
 pip install -r requirements.txt
 ```
 
-set your openai API in `.env` file and run the main script
+To set up your OpenAI API, simply navigate to your `.env` file and add your API credentials. Once that's done, you can run the main script to begin using the API.
 ```
 python3 semantic-search/main.py
 ```
 
 ## Scripts
-If you want to explore others PDFs files use the extractor inside scripts folder
+To explore additional PDF files, utilize the extractor located within the scripts folder.
 
 ```
 python extract_pdf.py --input_file_path ../data/20221224_mensaje_navidad_esp_rey_felipe.pdf --output_file_path ../data/20221224_mensaje_navidad_esp_rey_felipe.txt
