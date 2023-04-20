@@ -21,4 +21,4 @@ python extract_pdf.py --input_file_path ../data/20221224_mensaje_navidad_esp_rey
 
 ## Example
 
-![](E:\repositorios\semantic-search\images\semantic_search_execution.png)
+![](https://raw.githubusercontent.com/aaronroman/semantic-search/master/images/semantic_search_execution.png)
