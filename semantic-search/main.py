@@ -19,10 +19,14 @@ if __name__ == "__main__":
     # load data and create index
     index = load_data()
 
+    # loop until user exits with Ctrl+C
     while True:
         try:
+            # ask user for a question
             query = input("> prompt: ")
             resp = index.query(query)
+
+            # print response
             print(resp)
 
         except KeyboardInterrupt:
