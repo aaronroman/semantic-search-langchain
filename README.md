@@ -1,4 +1,4 @@
-![](images\bing_ai_header.png)
+![](https://raw.githubusercontent.com/aaronroman/semantic-search/master/images/bing_ai_header.png)
 
 ## Usage
 
