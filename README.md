@@ -1,8 +1,11 @@
+![](images\bing_ai_header.png)
+
 ## Usage
+
 Use python 3.10 or similar and install dependencies
 ```
 pip install -r requirements.txt
-``` 
+```
 
 set your openai API in `.env` file and run the main script
 ```
